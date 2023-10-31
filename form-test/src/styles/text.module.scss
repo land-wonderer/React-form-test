@@ -1,0 +1,14 @@
+@mixin default-text {
+  font-size: 14px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+@mixin big-text {
+  font-size: 20px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+@mixin small-text {
+  font-size: 12px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
